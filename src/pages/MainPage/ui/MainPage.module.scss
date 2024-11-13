@@ -5,6 +5,14 @@
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
+}
 
-  margin: 50px auto;
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.details {
+  max-width: 400px;
 }

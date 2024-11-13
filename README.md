@@ -1,12 +1,12 @@
-# Практика: createPortal
+# Практика: семантика
 
-## Задачи:
+## Задача:
 
-Переписать компонент Modal так, чтобы в нём использовалась функция createPortal 
+В файле MainPage поправить вёртску, заменив тэги div и p на семантические.
 
 ## Материалы:
-Документация - https://react.dev/reference/react-dom/createPortal  
-Видео - https://youtube.com/shorts/3Pvr6smC-V8
+Документация - https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+Видео - https://youtube.com/shorts/KuBm3RWNRAU?feature=share
 
 ## Запуск проекта:
 * `npm i` - установка библиотек
